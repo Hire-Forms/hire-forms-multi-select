@@ -31,6 +31,6 @@
     "watchify": "^3.2.2"
   },
   "dependencies": {
-    "hire-forms-checkbox": "^1.0.1"
+    "hire-forms-checkbox": "^1.0.3"
   }
 }
